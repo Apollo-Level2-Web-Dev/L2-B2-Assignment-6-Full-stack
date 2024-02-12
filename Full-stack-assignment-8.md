@@ -1,6 +1,6 @@
-# Computer Items **Management Dashboard**
+## Computer Items **Management Dashboard**
 
-Each product must have following information
+Each product must have the following information.
 
 - Product name
 - Product price
@@ -64,7 +64,7 @@ The primary objective of this assignment is to design and implement a comprehens
 7. **Part Servicing:**
     - Integrate a section for part servicing within the dashboard.
     - Users, especially sellers, can log and track the maintenance and servicing history of computer items.
-    - Include fields such as the date of servicing, next scheduled servicing date, detailed service description (e.g., upgrades, repairs), and a notes section.
+    - Include fields such as the date of servicing, the next scheduled servicing date, detailed service description (e.g., upgrades, repairs), and a notes section.
 8. **Coupon Discount:**
     - Implement a coupon discount feature for buyers during the checkout process.
     - Sellers can create and distribute coupon codes, providing customers with discounts on their purchases.
