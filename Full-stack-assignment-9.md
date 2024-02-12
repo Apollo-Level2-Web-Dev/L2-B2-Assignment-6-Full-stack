@@ -120,3 +120,7 @@ The primary objective of this assignment is to design and implement a comprehens
 The assignment should reflect best practices regarding code organization, security, and user experience. It should demonstrate proficiency in using the specified technologies and effectively address shopkeepers' needs to manage their inventory.
 
 ### **Deadline:**
+
+- 60 marks: February 17, 2024 11.59 PM
+- 50 marks: February 18, 2024 11.59 PM
+- 30 marks: After February 18, 2024 11.59 PM

@@ -102,6 +102,6 @@ The assignment should reflect best practices regarding code organization, securi
 
 ### **Deadline:**
 
-- 60 marks: January 27, 2024 11.59 PM
-- 50 marks: January 28, 2024 11.59 PM
-- 30 marks: After January 28, 2024 11.59 PM
+- 60 marks: February 17, 2024 11.59 PM
+- 50 marks: February 18, 2024 11.59 PM
+- 30 marks: After February 18, 2024 11.59 PM
