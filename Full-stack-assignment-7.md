@@ -8,7 +8,7 @@ Each product must have following information
 - Product size
 - Product branch
 
-**Note: Additionally, ensure to include more product information based on the specified filter criteria mentioned in point 5.**
+**Note: Additionally, ensure to include more product information based on the specified filter criteria mentioned in point 4.**
 
 ## **Requirements:**
 
