@@ -7,7 +7,7 @@ Each product must have following information
 - Product quantity
 - Product Image (You can use image link or use any third-party image hosting provider like ImgBB to host your product images)
 
-**Note: Additionally, ensure to include more product information based on the specified filter criteria mentioned in point 4.**
+**Note: Additionally, ensure to include more product information based on the specified filter criteria mentioned in point 3.**
 
 ## **Requirements:**
 
