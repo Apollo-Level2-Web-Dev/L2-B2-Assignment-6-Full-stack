@@ -16,6 +16,8 @@ The primary objective of this assignment is to design and implement a comprehens
 **Authentication:**
 
 1. **User Registration and Login:**
+    - Users must register and log in to access the dashboard.
+    - Use JWT (JSON Web Tokens) for secure authentication.
     ### User Roles:
     1. **Buyer:**
     - Permissions:
