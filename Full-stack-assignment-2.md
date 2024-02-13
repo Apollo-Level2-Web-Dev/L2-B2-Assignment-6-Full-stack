@@ -17,12 +17,12 @@ The primary objective of this assignment is to design and implement a comprehens
 
 1. **User Registration and Login:**
     ### User Roles:
-1. **Buyer:**
+    1. **Buyer:**
     - Permissions:
         - Search for products
         - View available inventory
         - Make request for polish service and Customized design shoes
-2. **Seller:**
+    2. **Seller:**
     - Sellers are users with additional permissions related to managing inventory and sales.
     - Permissions:
         - Add new products
