@@ -68,7 +68,7 @@ The primary objective of this assignment is to design and implement a comprehens
     - Integrate a user-friendly interface within the dashboard where users can submit requests for shoe polishing services.
     - Implement a tracking system that allows users to check the status of their polishing service requests, providing transparency and real-time updates.
     - Include options for users to specify preferences for the type of polish, level of shine, and any specific instructions for the polishing service.
-8. **Customize Shoes (Custom Design):**
+8. **Customize Shoes (Custom Design - Optional):**
     - Create an intuitive design interface within the dashboard, enabling users to customize various aspects of their shoes, such as colors, patterns, materials, and additional custom features.
     - Implement real-time previews of the customized shoes, allowing users to visualize the changes they make instantly.
     - Integrate a wide range of customization options, ensuring flexibility for users to express their unique style preferences.
