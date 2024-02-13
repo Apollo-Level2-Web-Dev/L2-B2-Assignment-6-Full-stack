@@ -23,17 +23,17 @@ The primary objective of this assignment is to design and implement a comprehens
         1. **User Role:**
             - Users with the role of "User" have restricted access compared to managers. They can only modify the products they have added to the inventory. This means they can perform CRUD (Create, Read, Update, Delete) operations exclusively on the products they own.
             - Specifically, a user can:
-                - Add new books to the inventory.
-                - Delete their existing books from the inventory.
-                - Update details of the books they have added.
-                - View and read the list of books they have added.
+                - Add new gadgets to the inventory.
+                - Delete their existing gadgets from the inventory.
+                - Update details of the gadgets they have added.
+                - View and read the list of gadgets they have added.
         2. **Manager Role:**
             - Users with the role of “Manager” have broader permissions and can modify any product within the inventory. This role is typically assigned to administrators or higher-level staff members responsible for overseeing the entire inventory.
             - Managers can perform all CRUD operations on any product in the inventory, regardless of who added it. This includes:
-                - Adding new books to the inventory.
-                - Deleting existing books from the inventory.
+                - Adding new gadgets to the inventory.
+                - Deleting existing gadgets from the inventory.
                 - Updating details of any book in the inventory.
-                - Viewing and reading the list of all books in the inventory.
+                - Viewing and reading the list of all gadgets in the inventory.
         
         By defining these roles and their respective permissions, the system ensures that users have control and ownership over the products they add while allowing managers to oversee and manage the entire inventory efficiently.
         
