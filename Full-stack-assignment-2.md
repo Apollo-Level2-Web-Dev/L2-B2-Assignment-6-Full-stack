@@ -18,7 +18,6 @@ The primary objective of this assignment is to design and implement a comprehens
 1. **User Registration and Login:**
     ### User Roles:
 1. **Buyer:**
-    - Buyers are users who primarily focus on purchasing shoes and viewing product details.
     - Permissions:
         - Search for products
         - View available inventory
