@@ -74,8 +74,11 @@ The primary objective of this assignment is to design and implement a comprehens
     - Utilize Redux for state management to maintain a consistent application state.
 9. **Part Servicing:**
     - Integrate a section for part servicing within the dashboard.
-    - Users, especially sellers, can log and track the maintenance and servicing history of computer items.
-    - Include fields such as the date of servicing, the next scheduled servicing date, detailed service description (e.g., upgrades, repairs), and a notes section.
+    - Users, especially buyer, can request for the maintenance and servicing of a computer part.
+   When making a servicing request, buyers need to provide:
+    - Details of the part requiring servicing (e.g., serial number, model)
+    - Description of the issue or service required
+    - Preferred service date and time, if applicable
 10. **Coupon Discount (Optional):**
     - Implement a coupon discount feature for buyers during the checkout process.
     - Sellers can create and distribute coupon codes, providing customers with discounts on their purchases.
