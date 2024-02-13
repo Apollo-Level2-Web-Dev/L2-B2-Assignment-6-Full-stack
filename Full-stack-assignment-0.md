@@ -7,7 +7,7 @@ Each product must have the following information:
 - Product quantity
 - Product Image (You can use image link or use any third-party image hosting provider like ImgBB to host your product images)
 
-**Note: Additionally, ensure to include more product information based on the specified filter criteria mentioned in point 4.**
+**Note: Additionally, ensure to include more product information based on the specified filter criteria mentioned in point 3.**
 
 ## **Requirements:**
 
@@ -76,7 +76,7 @@ The primary objective of this assignment is to design and implement a comprehens
 4. Implement a feature within the product list that includes a button. Upon clicking this button, users will be redirected to a form where product data is pre-filled. Users can then make modifications as needed to create a new product based on the existing one. The button could be named "Duplicate & Edit" or "Create Variant" to convey the idea that users can duplicate an existing product and make modifications to create a new one.
 5. **Cart System:**
     - Users with the roles of "Manager" or "User" have the capability to add products to the cart.
-    - Each product card will feature an "Add to Cart" button for adding the product tot he cart.
+    - Each product card will feature an "Add to Cart" button for adding the product to the cart.
     - The "Add to Cart" button will dynamically respond: if the product is already present in the cart, the button will become disabled, preventing duplicate entries.
 6. Checkout page:
     - Upon reaching the checkout page, users, both managers and regular users, will encounter a summary of their cart contents along with the respective quantities of each product added.
