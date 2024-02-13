@@ -45,7 +45,18 @@ The primary objective of this assignment is to design and implement a comprehens
         - Daily
         - Monthly
         - Yearly
-4. **Computer Items Filtering (Implement on the computer items management page)**
+4. Purchase Management:
+    - Users can purchase computer items from the inventory.
+    - They can buy any amount of computer items.
+    - Implement a form for entering purchase details.
+    - The form should automatically pre-fill the name of the buyer (if available) who is purchasing. additionally in the form add filed for purchase date, quantity.
+5. **Purchase History:**
+    - View **Purchase** history categorized by:
+        - Weekly
+        - Daily
+        - Monthly
+        - Yearly
+6. **Computer Items Filtering (Implement on the computer items management page)**
     - Implement a comprehensive computer items filter system to optimize inventory management. The filter options should cater specifically to computer accessories and hardware:
         - **Filter by Category:** Allow users to set a filter for specific computer item categories (e.g., monitors, RAM, graphics cards).
         - **Filter by Brand:** Implement a real-time search functionality for computer item brands to quickly find items by a specific manufacturer.
@@ -55,25 +66,25 @@ The primary objective of this assignment is to design and implement a comprehens
         - **Filter by Condition:** Implement a filter for new or used items.
         - **Filter by Capacity:** Include a filter for items with varying capacities (e.g., storage capacity for hard drives).
         - **Additional Relevant Filter Parameters:** Introduce other relevant filter parameters such as color, form factor, or any custom attributes associated with the computer items.
-5. **User Interface Features:**
+7. **User Interface Features:**
     - Gracefully update the UI in real-time when changes occur (e.g., product updates, sales, etc.).
     - Utilize RTK Query for efficient CRUD operations.
     - Implement **Re-fetching** functionality to ensure data accuracy and consistency.
-6. **State Management:**
+8. **State Management:**
     - Utilize Redux for state management to maintain a consistent application state.
-7. **Part Servicing:**
+9. **Part Servicing:**
     - Integrate a section for part servicing within the dashboard.
     - Users, especially sellers, can log and track the maintenance and servicing history of computer items.
     - Include fields such as the date of servicing, the next scheduled servicing date, detailed service description (e.g., upgrades, repairs), and a notes section.
-8. **Coupon Discount:**
+10. **Coupon Discount (Optional):**
     - Implement a coupon discount feature for buyers during the checkout process.
     - Sellers can create and distribute coupon codes, providing customers with discounts on their purchases.
     - Include options for percentage-based discounts, fixed amount discounts, or free shipping.
-9. **Bulk Delete Product Options:**
+11. **Bulk Delete Product Options:**
     - Enable users to efficiently manage their inventory by implementing a bulk delete feature for the computer items.
     - Provide a user-friendly interface to select and delete multiple computer item options simultaneously.
-10. Implement a feature within the product list that includes a button. Upon clicking this button, users will be redirected to a form where product data is pre-filled. Users can then make modifications as needed to create a new product based on the existing one. The button could be named "Duplicate & Edit" or "Create Variant" to convey the idea that users can duplicate an existing product and make modifications to create a new one.
-11. **Additional Features:**
+12. Implement a feature within the product list that includes a button. Upon clicking this button, users will be redirected to a form where product data is pre-filled. Users can then make modifications as needed to create a new product based on the existing one. The button could be named "Duplicate & Edit" or "Create Variant" to convey the idea that users can duplicate an existing product and make modifications to create a new one.
+13. **Additional Features:**
     - Implement any other relevant features that enhance the usability and functionality of the dashboard.
 
 **Technical Requirements:**
