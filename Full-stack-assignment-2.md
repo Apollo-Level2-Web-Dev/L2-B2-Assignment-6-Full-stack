@@ -16,14 +16,22 @@ The primary objective of this assignment is to design and implement a comprehens
 **Authentication:**
 
 1. **User Registration and Login:**
-    - Users must register and log in to access the dashboard.
-    - Use JWT (JSON Web Tokens) for secure authentication.
-    1. **Buyer Role:**
-    - Users assigned the "buyer" role will typically have permissions related to purchasing and viewing product details.
-    - They might be able to search for products, view available inventory, and perform actions related to their own purchases.
-    2. **Seller Role:**
-    - Users assigned the "seller" role, on the other hand, will have additional permissions related to managing the inventory and sales.
-    - Sellers may be allowed to add new products, update existing product details, view the complete list of shoes, manage sales, and access features specific to         sellers.
+    ### User Roles:
+1. **Buyer:**
+    - Buyers are users who primarily focus on purchasing shoes and viewing product details.
+    - Permissions:
+        - Search for products
+        - View available inventory
+        - Make request for polish service and Customized design shoes
+2. **Seller:**
+    - Sellers are users with additional permissions related to managing inventory and sales.
+    - Permissions:
+        - Add new products
+        - Update existing product details
+        - View the complete list of shoes
+        - Manage sales
+        - Access features specific to sellers
+        - Accept the polish request and customize shoes request from buyers
 
 **Functionality:**
 
