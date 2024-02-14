@@ -72,8 +72,15 @@ The primary objective of this assignment is to design and implement a comprehens
     - Managers can create a coupon code and store it in the database.
     - An API call can be implemented to verify the coupon and reduce the amount based on the coupon.
     - Don't forget to provide the coupon code when submitting the assignment for the examiner to check.
-6. **Invoice Print Options:**
-    - Provide an option to print invoices for sales transactions.
+6. **Invoice download (PDF)**
+        - After completing a sale, sellers will have the option to download the invoice for the order.
+        - The invoice will contain details such as the product name, quantity, date, and name of the buyer.
+        - Sellers can download the invoice for their records or for further processing.
+        - For generating PDF invoices in a React application, you can use the following React PDF libraries:
+            - **react-pdf**:
+            - jspdf
+            - react-pdf/renderer
+            - react-to-print
 7. **Additional Features:**
     - Implement any other relevant features that enhance the usability and functionality of the dashboard.
 
