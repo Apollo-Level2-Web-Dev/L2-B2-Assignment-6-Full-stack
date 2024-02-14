@@ -62,13 +62,13 @@ The primary objective of this assignment is to design and implement a comprehens
 2. **State Management:**
     - Utilize Redux for state management to maintain a consistent application state.
 3. **Bulk Delete Product Options:**
-    - Enable Salesman to efficiently manage their inventory by implementing a bulk delete feature for the flowers.
+    - Enable Managers to efficiently manage their inventory by implementing a bulk delete feature for the flowers.
     - Provide a user-friendly interface to select and delete multiple flower options simultaneously.
 4. **Coupon & Discount Functionality:**
     - Allow customers to provide a coupon code during checkout.
     - Sellers can input the coupon code, and customers receive a discount based on the coupon.
 5. **Duplicate & Edit Feature:**
-    - Implement a feature within the product list that includes a button. Upon clicking this button, Salesman will be redirected to a form where product data is pre-filled. Users can then make modifications as needed to create a new product based on the existing one. The button could be named "Duplicate & Edit" or "Create Variant" to convey the idea that users can duplicate an existing product and make modifications to create a new one.
+    - Implement a feature within the product list that includes a button. Upon clicking this button, manager will be redirected to a form where product data is pre-filled. Manager can then make modifications as needed to create a new product based on the existing one. The button could be named "Duplicate & Edit" or "Create Variant" to convey the idea that managers can duplicate an existing product and make modifications to create a new one.
 6. **Customer Membership & Points on Purchase:**
     - Introduce a membership system where customers can sign up and earn points on purchases.
     - Assign points based on the purchase amount.
