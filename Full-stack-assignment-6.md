@@ -69,6 +69,9 @@ The primary objective of this assignment is to design and implement a comprehens
 5. **Coupon & Discount Functionality:**
     - Allow customers to provide a coupon code during checkout.
     - Sellers can input the coupon code, and customers receive a discount based on the coupon.
+    - Managers can create a coupon code and store it in the database.
+    - An API call can be implemented to verify the coupon and reduce the amount based on the coupon.
+    - Don't forget to provide the coupon code when submitting the assignment for the examiner to check.
 6. **Invoice Print Options:**
     - Provide an option to print invoices for sales transactions.
 7. **Additional Features:**
