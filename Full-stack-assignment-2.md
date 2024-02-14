@@ -88,10 +88,10 @@ The primary objective of this assignment is to design and implement a comprehens
     - Implement a verification process where users can verify the authenticity of a particular pair of shoes by entering or scanning the assigned ID.
     - Display relevant product details upon successful verification, assuring customers of the product's authenticity.
 10. **Bulk Delete Product Options:**
-    - Enable users to efficiently manage their inventory by implementing a bulk delete feature for the shoes.
+    - Enable sellers to efficiently manage their inventory by implementing a bulk delete feature for the shoes.
     - Provide a user-friendly interface to select and delete multiple shoe options simultaneously.
 11. **Duplicate & Edit Feature:**
-    - Implement a feature within the product list that includes a button. Upon clicking this button, users will be redirected to a form where product data is pre-filled. Users can then make modifications as needed to create a new product based on the existing one. The button could be named "Duplicate & Edit" or "Create Variant" to convey the idea that users can duplicate an existing product and make modifications to create a new one.
+    - Implement a feature within the product list that includes a button. Upon clicking this button, sellers will be redirected to a form where product data is pre-filled. Sellers can then make modifications as needed to create a new product based on the existing one. The button could be named "Duplicate & Edit" or "Create Variant" to convey the idea that users can duplicate an existing product and make modifications to create a new one.
 12. **Additional Features:**
     - Implement any other relevant features that enhance the usability and functionality of the dashboard.
 
