@@ -94,7 +94,6 @@ The primary objective of this assignment is to design and implement a comprehens
     - Implement a feature within the product list that includes a button. Upon clicking this button, users will be redirected to a form where product data is pre-filled. Users can then make modifications as needed to create a new product based on the existing one. The button could be named "Duplicate & Edit" or "Create Variant" to convey the idea that users can duplicate an existing product and make modifications to create a new one.
 12. **Additional Features:**
     - Implement any other relevant features that enhance the usability and functionality of the dashboard.
-    - Include features for shoe courses, shoe health check, and additional customization options.
 
 **Technical Requirements:**
 
