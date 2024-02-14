@@ -20,7 +20,7 @@ The primary objective of this assignment is to design and implement a comprehens
     - Use JWT (JSON Web Tokens) for secure authentication.
     - Roles: Two roles - Manager and Seller.
         - Manager: Can add and modify products.
-        - Seller: Can only sell products.
+        - Seller: Can only sell products. (Manager create seller account)
 
 **Functionality:**
 
