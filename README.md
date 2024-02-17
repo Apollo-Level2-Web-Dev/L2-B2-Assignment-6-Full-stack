@@ -38,6 +38,6 @@ It's essential to prioritize tasks and stay focused on core functionalities. Reg
 
 ### **Deadline:**
 
-- 60 marks: February 17, 2024 11.59 PM
-- 50 marks: February 18, 2024 11.59 PM
-- 30 marks: After February 18, 2024 11.59 PM
+- 60 marks: February 19, 2024 11.59 AM
+- 50 marks: February 20, 2024 11.59 PM
+- 30 marks: After February 20, 2024 11.59 PM
